@@ -10,6 +10,8 @@ It is a AWS service that evaluates your resources against five pillarts:
 5. Service limits
 
 
+<img width="938" alt="스크린샷 2022-09-30 오전 7 15 46" src="https://user-images.githubusercontent.com/107760647/193151815-9d7cbe01-e3aa-4a45-b822-87ce38b63a03.png">
+
 For each category:
 
 *The green check indicates the number of items for which it detected no problems.
@@ -17,3 +19,4 @@ For each category:
 *The orange triangle represents the number of recommended investigations.
 
 *The red circle represents the number of recommended actions.
+
