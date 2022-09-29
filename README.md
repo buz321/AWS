@@ -1,1 +1,19 @@
 # AWS
+
+## 7.3 AWS Trusted Advisor
+
+It is a AWS service that evaluates your resources against five pillarts:
+1. Cost optimization
+2. Performance
+3. Security
+4. Fault tolerance
+5. Service limits
+
+
+For each category:
+
+*The green check indicates the number of items for which it detected no problems.
+
+*The orange triangle represents the number of recommended investigations.
+
+*The red circle represents the number of recommended actions.
