@@ -20,3 +20,18 @@ For each category:
 
 *The red circle represents the number of recommended actions.
 
+
+## 8.1 AWS Free Tier
+
+AWS offers three free services:
+- Always Free
+- 12 months Free: free for 12 months following your initial sign-up date to AWS
+- Trials: short-term free trial 
+
+## 8.2 AWS pricing concepts
+
+- Pay for what you use
+- pay less when you reserve
+- Pay less with volume-based discounts when you use more
+
+## 8.3 Billing dashboard
