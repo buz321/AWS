@@ -43,3 +43,11 @@ AWS offers three free services:
 - Publish AWS Cost and Usage Reports.
 
 ## 8.4 Consolidated billing
+- Simplifies billing process
+- Share savings across accounts
+- Free feature
+
+<img width="812" alt="스크린샷 2022-10-02 오전 7 45 34" src="https://user-images.githubusercontent.com/107760647/193430968-e0546636-97b7-4336-ac97-f46f281856a8.png">
+
+Each account may not be eligible for a discount (exceeding 10gb). However, using Consolidated Billing, you can add them into one account, and take advantage of the discount price. 
+
