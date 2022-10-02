@@ -51,3 +51,7 @@ AWS offers three free services:
 
 Each account may not be eligible for a discount (exceeding 10gb). However, using Consolidated Billing, you can add them into one account, and take advantage of the discount price. 
 
+## 8.5 AWS Budgets
+You can create budgets to plan your service usage, service costs, and instance reservations.
+
+The information in AWS Budgets updates three times a day!!!!!
