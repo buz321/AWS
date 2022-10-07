@@ -1,0 +1,2 @@
+it can serve frequently requested items at sub-millisecond response times, and enables you to easily scale for higher loads without growing the costlier backend database.
+Database query results caching, persistent session caching, and full-page caching are all popular examples of caching
