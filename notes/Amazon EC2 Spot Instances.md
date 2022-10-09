@@ -1,0 +1,1 @@
+Amazon EC2 Spot instances let you take advantages of unused EC2 capacitiy in the AWS cloud. Spot Instances are available at up to a 90% discount compared to On-Demand prices. You can use Spot Instances for various stateless, fault-tolerant, or flexible applications.
