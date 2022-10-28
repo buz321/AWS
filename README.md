@@ -1,5 +1,20 @@
 # AWS_studying_note
 
+## 5.1 Amazon Elastic Block Store (Amazon EBS)
+
+Amazon Elastic Block Store (Amazon EBS) is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. 
+
+If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available (Unlike 'Instant Store Volume', which cannot keep the data consistantly).
+
+<img width="451" alt="스크린샷 2022-10-29 오전 7 32 30" src="https://user-images.githubusercontent.com/107760647/198745648-19695c2b-71b2-4724-86a1-54d324a84ae2.png">
+
+5.1.1 Amazon EBS Snapshot
+
+* An EBS snapshot is an incremental **backup**. This means that the first backup taken of a volume copies all the data. For subsequent backups, only the blocks of data that have changed since the most recent snapshot are saved. 
+
+<img width="971" alt="스크린샷 2022-10-29 오전 7 32 56" src="https://user-images.githubusercontent.com/107760647/198745691-41da6ae8-14f9-46f8-be11-1ebc051693e7.png">
+
+
 ## 7.3 AWS Trusted Advisor
 
 It is a AWS service that evaluates your resources against five pillarts:
