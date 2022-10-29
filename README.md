@@ -8,12 +8,30 @@ If you stop or terminate an Amazon EC2 instance, all the data on the attached EB
 
 <img width="451" alt="스크린샷 2022-10-29 오전 7 32 30" src="https://user-images.githubusercontent.com/107760647/198745648-19695c2b-71b2-4724-86a1-54d324a84ae2.png">
 
-5.1.1 Amazon EBS Snapshot
+### 5.1.1 Amazon EBS Snapshot
 
 * An EBS snapshot is an incremental **backup**. This means that the first backup taken of a volume copies all the data. For subsequent backups, only the blocks of data that have changed since the most recent snapshot are saved. 
 
 <img width="971" alt="스크린샷 2022-10-29 오전 7 32 56" src="https://user-images.githubusercontent.com/107760647/198745691-41da6ae8-14f9-46f8-be11-1ebc051693e7.png">
 
+## 5.3 Amazon Elastic File System (Amazon EFS)
+
+Multiple instances can access the data in **EFS** at the same time.
+
+## EBS VS EFS
+
+### EBS:
+
+* Volumes attached to EC2 instances
+* Availability Zone level resource
+* Need to be in the same Availability Zone to attache EC2 instances
+* Volumes do not automatically scale
+
+### EFS:
+* Multiple instances reading and writing simultaneously
+* Linus file system
+* Regional resource
+* Automatically scales
 
 ## 7.3 AWS Trusted Advisor
 
