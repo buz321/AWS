@@ -1,4 +1,4 @@
-# AWS_studying_note
+# AWS_Studying_Note
 
 ## 5.1 Amazon Elastic Block Store (Amazon EBS)
 
