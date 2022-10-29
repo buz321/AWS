@@ -36,6 +36,23 @@ Multiple instances can access the data in **EFS** at the same time.
 * Regional resource
 * Automatically scales
 
+## 5.4 Amazon Relational Database Service (Amazon RDS)
+Amazon Relational Database Service (Amazon RDS) is a service that enables you to run relational databases in the AWS Cloud.
+(Relational databases (data is stored in a way that relates it to other pieces of data) use structured query language (SQL) to store and query data. This approach allows data to be stored in an easily understandable, consistent, and scalable way.)
+
+### 5.4.1 Amazon RDS database engines 
+
+* Amazon Aurora
+* PostgreSQL
+* MySQL
+* MariaDB
+* Oracle Database
+* Microsoft SQL Server
+
+### 5.4.2 Amazon Aurora
+Amazon Aurora is an enterprise-class relational database. *It is compatible with MySQL and PostgreSQL relational databases.* 
+It is up to *five* times faster than standard MySQL databases and up to three times faster than standard PostgreSQL databases.
+
 ## 7.3 AWS Trusted Advisor
 
 It is a AWS service that evaluates your resources against five pillarts:
