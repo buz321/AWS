@@ -16,6 +16,9 @@ If you stop or terminate an Amazon EC2 instance, all the data on the attached EB
 
 ## 5.3 Amazon Elastic File System (Amazon EFS)
 
+Amazon Elastic File System (Amazon EFS) is a scalable file system used with AWS Cloud services and on-premises resources. 
+As you add and remove files, Amazon EFS grows and shrinks automatically. It can scale on demand to petabytes without disrupting applications. 
+
 Multiple instances can access the data in **EFS** at the same time.
 
 ## EBS VS EFS
@@ -88,3 +91,10 @@ Each account may not be eligible for a discount (exceeding 10gb). However, using
 You can create budgets to plan your service usage, service costs, and instance reservations.
 
 The information in AWS Budgets updates three times a day!!!!!
+
+
+
+
+
+Reference:
+
