@@ -21,7 +21,7 @@ As you add and remove files, Amazon EFS grows and shrinks automatically. It can 
 
 Multiple instances can access the data in **EFS** at the same time.
 
-## EBS VS EFS
+## EBS VS EFS (differences)
 
 ### EBS:
 
