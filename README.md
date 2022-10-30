@@ -80,6 +80,8 @@ DynamoDB:
 ## 5.6 Redshift
 Amazon Redshift is a data warehousing service that you can use for big data analytics. It offers the ability to collect data from many sources and helps you to understand relationships and trends across your data.
 
+**It's a 'Data Warehouse'**
+
 ## 7.3 AWS Trusted Advisor
 
 It is a AWS service that evaluates your resources against five pillarts:
