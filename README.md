@@ -53,6 +53,30 @@ Amazon Relational Database Service (Amazon RDS) is a service that enables you to
 Amazon Aurora is an enterprise-class relational database. *It is compatible with MySQL and PostgreSQL relational databases.* 
 It is up to *five* times faster than standard MySQL databases and up to three times faster than standard PostgreSQL databases.
 
+## 5.5 Amazon DynamoDB
+Amazon DynamoDB is a key-value database service. It delivers single-digit millisecond performance at any scale.
+
+Key Features:
+* Non-relational, NoSQL database (Serverless)
+* Purpose built
+* Millisecond response time
+* Fully managed
+* Highly scalable (Automatic Scaling)
+
+## RDS VS DynamoDB
+
+RDS:
+* Automatic high availability; recovery provided
+* Customer ownership of data
+* Customer ownership of schema
+* Customer control of network
+
+DynamoDB:
+* Key-value
+* Massive throughput capabilities
+* PB size potential
+* Gradnular API access
+
 ## 7.3 AWS Trusted Advisor
 
 It is a AWS service that evaluates your resources against five pillarts:
