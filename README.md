@@ -14,6 +14,76 @@ If you stop or terminate an Amazon EC2 instance, all the data on the attached EB
 
 <img width="971" alt="스크린샷 2022-10-29 오전 7 32 56" src="https://user-images.githubusercontent.com/107760647/198745691-41da6ae8-14f9-46f8-be11-1ebc051693e7.png">
 
+## 5.2 Amazon Simple Storage Service (Amazon S3)
+Amazon Simple Storage Service (Amazon S3) is a service that provides object-level storage. !Amazon S3 stores data as objects in buckets.!
+
+### 5.2.1 Amazon S3 storage classes
+
+* Amazon S3 Standard
+
+Designed for frequently accessed data
+
+Stores data in a minimum of three Availability Zones
+
+* Amazon S3 Standard-Infrequent Access (S3 Standard-IA)
+
+Ideal for infrequently accessed data
+
+Similar to Amazon S3 Standard but has a lower storage price and higher retrieval price
+
+* Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
+
+Stores data in a single Availability Zone
+
+Has a lower storage price than Amazon S3 Standard-IA
+
+* Amazon S3 Intelligent-Tiering
+
+Ideal for data with unknown or changing access patterns
+
+Requires a small monthly monitoring and automation fee per object
+
+*  Amazon S3 Glacier Instant Retrieval
+
+Works well for #archived data# that requires immediate access
+
+Can retrieve objects within a few milliseconds
+
+* Amazon S3 Glacier Flexible Retrieval
+
+Low-cost storage designed for data archiving
+
+Able to retrieve objects within a few minutes to hours
+
+* Amazon S3 Glacier Deep Archive
+
+Lowest-cost object storage class ideal for archiving
+
+Able to retrieve objects within 12 hours
+
+* Amazon S3 Outposts
+
+Creates S3 buckets on Amazon S3 Outposts
+
+Makes it easier to retrieve, store, and access data on AWS Outposts
+
+
+### 5.2.1 Amazon EBS VS Amazon S3
+
+Amazon EBS:
+
+* Sizes up to 16 TiB
+* Survive termination of their EC2 instance
+* Solid state by default
+* HDD options
+
+Amazon S3:
+
+* Unlimited storage
+* Individual objects up to 5 TBs
+* Write once/read many
+* 99.9999999% durability 
+
 ## 5.3 Amazon Elastic File System (Amazon EFS)
 
 Amazon Elastic File System (Amazon EFS) is a scalable file system used with AWS Cloud services and on-premises resources. 
