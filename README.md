@@ -212,6 +212,10 @@ Amazon DynamoDB Accelerator (DAX) is an in-memory cache for DynamoDB.
 
 It helps improve response times from single-digit milliseconds to microseconds.
 
+## 6.1 Shared responsibility model
+<img width="854" alt="스크린샷 2022-11-01 오전 7 34 54" src="https://user-images.githubusercontent.com/107760647/199122808-dfc304d5-c017-402b-8998-01f20c160d5e.png">
+
+
 ## 7.3 AWS Trusted Advisor
 
 It is a AWS service that evaluates your resources against five pillarts:
