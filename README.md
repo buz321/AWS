@@ -273,6 +273,17 @@ You can create budgets to plan your service usage, service costs, and instance r
 
 The information in AWS Budgets updates three times a day!!!!!
 
+## 9.2 Migration strategies
+
+The application migration strategies are:
+
+* rehosting 
+* replatforming
+* refactoring/re-architecting
+* repurchasing
+* retaining 
+* retiring
+
 ## 9.3 Snow Family
 The **AWS Snow Family** is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
 <img width="864" alt="스크린샷 2022-11-04 오전 8 01 06" src="https://user-images.githubusercontent.com/107760647/199851142-14bfb580-1ff6-4519-822d-dccce9748fca.png">
