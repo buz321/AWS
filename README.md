@@ -1,5 +1,34 @@
 # AWS_Studying_Note (Amazon Practitioner)
 
+## 3.2 Edge locations
+
+An edge location is a site that Amazon CloudFront uses to store cached copies of your content closer to your customers for faster delivery.
+
+(accerlations the communication and content delivery)
+
+* Edge location is separate from "Regions"
+
+### 3.2.1 Amazon CloundFront
+A service that helps deliver data, video, application, APIs to customers around the world with "Low Latency" and "High-Transfer-Speed"
+
+* Low Latency
+
+* High-Transfer-Speed
+
+### 3.2.2 Amazon Route 53
+domain name service 
+helping direct cusomters to certain web location
+
+* Low Latency
+
+* High-Transfer-Speed
+
+### 3.2.3 AWS Outposts
+Install a fully operational mini Region, right inside your own data center. That's owned and operated by AWS, using 100% of AWS functionality, but isolated within your own building. 
+
+
+## Regions are geographically isolated areas !!!!!!!
+
 ## 5.1 Amazon Elastic Block Store (Amazon EBS)
 
 Amazon Elastic Block Store (Amazon EBS) is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. 
