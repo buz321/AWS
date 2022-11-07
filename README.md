@@ -29,6 +29,42 @@ Install a fully operational mini Region, right inside your own data center. That
 
 ## Regions are geographically isolated areas !!!!!!!
 
+## 3.3 Ways to interact with AWS services
+
+### 3.3.1 AWS Management Console (point and click style)
+The AWS Management Console is a web-based interface for accessing and managing AWS services. You can quickly access recently used services and search for other services by name, keyword, or acronym. The console includes wizards and automated workflows that can simplify the process of completing tasks.
+
+* Test environments
+* View AWS bills
+* View monitoring 
+* Work with non-technical resources
+
+### 3.3.2 AWS Command Line Interface (CLI)
+
+- Make API calls using the terminal on your machine 
+
+
+To save time when making API requests, you can use the AWS Command Line Interface (AWS CLI). AWS CLI enables you to control multiple AWS services directly from the command line within one tool. AWS CLI is available for users on Windows, macOS, and Linux. 
+
+### 3.3.3 AWS Software Development Kits (SDKs)
+Another option for accessing and managing AWS services is the software development kits (SDKs). SDKs make it easier for you to use AWS services through an API designed for your programming language or platform. SDKs enable you to use AWS services with your existing applications or create entirely new applications that will run on AWS.
+
+### 3.3.4 AWS Elastic Beanstalk
+With AWS Elastic Beanstalk, you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
+
+* Adjust capacity 
+* Laod balancing
+* Automatic scaling
+* Application health monitoring
+
+(do it automatically !!!!)
+
+
+### 3.3.5 AWS CloudFormation
+With AWS CloudFormation, you can treat your infrastructure as code. This means that you can build an environment by writing lines of code instead of using the AWS Management Console to individually provision resources.
+
+(do it automatically !!!!)
+
 ## 5.1 Amazon Elastic Block Store (Amazon EBS)
 
 Amazon Elastic Block Store (Amazon EBS) is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. 
