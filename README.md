@@ -66,6 +66,29 @@ With AWS CloudFormation, you can treat your infrastructure as code. This means t
 
 (do it automatically !!!!)
 
+# 4.1 Connectivity to AWS
+## 4.1.1 Amazon Virtual Private Cloud (Amazon VPC)
+
+## 4.1.2 Internet Gateway
+- To allow public traffic from the internet to access your VPC, you attach an internet gateway to the VPC.
+- 
+- An internet gateway is a connection between a VPC and the internet. You can think of an internet gateway as being similar to a doorway that customers use to enter the coffee shop. Without an internet gateway, no one can access the resources within your VPC.
+<img width="869" alt="스크린샷 2022-11-09 오전 7 18 35" src="https://user-images.githubusercontent.com/107760647/200687980-5b674af7-8a94-4085-964c-ffe14d5effb7.png">
+
+## 4.1.2 Virtual Private Gateway
+- To access private resources in a VPC, you can use a virtual private gateway. 
+- The virtual private gateway is the component that allows protected internet traffic to enter into the VPC.
+<img width="863" alt="스크린샷 2022-11-09 오전 7 21 07" src="https://user-images.githubusercontent.com/107760647/200688409-3a0ee468-b273-410c-bfc5-ad7ac55184ac.png">
+
+## 4.1.3 AWS Direct Connect
+- AWS Direct Connect is a service that enables you to establish a dedicated private connection between your data center and a VPC.  
+
+* The private connection that AWS Direct Connect provides helps you to reduce network costs and increase the amount of bandwidth that can travel through your network.
+
+<img width="865" alt="스크린샷 2022-11-09 오전 7 22 12" src="https://user-images.githubusercontent.com/107760647/200688591-8c67e9bf-de2f-402c-a5b6-d38137ba8980.png">
+
+
+
 ## 5.1 Amazon Elastic Block Store (Amazon EBS)
 
 Amazon Elastic Block Store (Amazon EBS) is a service that provides block-level storage volumes that you can use with Amazon EC2 instances. 
