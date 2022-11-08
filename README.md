@@ -30,6 +30,7 @@ Install a fully operational mini Region, right inside your own data center. That
 ## Regions are geographically isolated areas !!!!!!!
 
 ## 3.3 Ways to interact with AWS services
+- How to provision AWS resources - 
 
 ### 3.3.1 AWS Management Console (point and click style)
 The AWS Management Console is a web-based interface for accessing and managing AWS services. You can quickly access recently used services and search for other services by name, keyword, or acronym. The console includes wizards and automated workflows that can simplify the process of completing tasks.
