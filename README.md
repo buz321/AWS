@@ -87,7 +87,33 @@ With AWS CloudFormation, you can treat your infrastructure as code. This means t
 
 <img width="865" alt="스크린샷 2022-11-09 오전 7 22 12" src="https://user-images.githubusercontent.com/107760647/200688591-8c67e9bf-de2f-402c-a5b6-d38137ba8980.png">
 
+# 4.2 Subnets and network access control lists
 
+## 4.2.1 Subnets
+A subnet is a section of a VPC in which you can group resources based on security or operational needs. Subnets can be public or private. 
+
+* Public subnets: contain resources that need to be accessible by the public, such as an online store’s website.
+
+* Private subnets:  contain resources that should be accessible only through your private network, such as a database that contains customers’ personal information and order histories. 
+<img width="454" alt="스크린샷 2022-11-10 오전 6 46 09" src="https://user-images.githubusercontent.com/107760647/200948554-4654d0f0-3767-4fdf-ac0c-882a59a009b1.png">
+
+## 4.2.2 Network access control lists (ACLs)
+A network access control list (ACL) is a virtual firewall that controls inbound and outbound traffic at the subnet level.
+<img width="344" alt="스크린샷 2022-11-10 오전 6 47 02" src="https://user-images.githubusercontent.com/107760647/200948704-d58fdf7e-f5d9-4efd-9fbd-dfdb17b19bf3.png">
+
+## 4.2.3 Security groups
+A security group is a virtual firewall that controls inbound and outbound traffic for an Amazon EC2 instance.
+
+<img width="852" alt="스크린샷 2022-11-10 오전 6 47 54" src="https://user-images.githubusercontent.com/107760647/200948867-8356027d-cda3-4257-8894-6ec2e241c4d7.png">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+- Network Hardening
+
+- Request = packet
+Security Group is Stateful (remember when the data enters, so doesn't check when it leaves) 
+
+Stateless is Stateless (remembers nothing!)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 5.1 Amazon Elastic Block Store (Amazon EBS)
 
