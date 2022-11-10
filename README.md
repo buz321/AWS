@@ -114,6 +114,23 @@ Security Group is Stateful (remember when the data enters, so doesn't check when
 
 Stateless is Stateless (remembers nothing!)
 -------------------------------------------------------------------------------------------------------------------------------------------------
+# 4.3 Global Networking
+
+## 4.3.1 Domain Name System (DNS)
+web address - DNS translate it
+DNS resolution involves a customer DNS resolver communicating with a company DNS server.
+
+## 4.3.2 Amazon Route 53
+- Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS. 
+
+Amazon Route 53 routing policies:
+* Latency-based routing
+* Geolocation DNS
+* Geoproximity routing
+* Weighted round robin
+
+## 4.3.3 Amazon Cloudfront
+- Deliver contents (low latency)
 
 ## 5.1 Amazon Elastic Block Store (Amazon EBS)
 
