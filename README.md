@@ -1,5 +1,18 @@
 # AWS_Studying_Note (Amazon Practitioner)
 
+# 2.3 Scaling Amazon EC2
+
+## 2.3.1 Scalability 
+Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in.
+
+## 2.3.2 Amazon EC2 Auto Scaling
+Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand.
+
+# 2.4 Directing traffic with Elastic Load Balancing
+
+## 2.4.1 Elastic Load Balancing
+Elastic Load Balancing is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances. 
+
 ## 3.2 Edge locations
 
 An edge location is a site that Amazon CloudFront uses to store cached copies of your content closer to your customers for faster delivery.
