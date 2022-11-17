@@ -418,6 +418,13 @@ You can create budgets to plan your service usage, service costs, and instance r
 
 The information in AWS Budgets updates three times a day!!!!!
 
+* it gives you an alert!!!! (notification)
+
+## 8.6 AWS Cost Explorer
+AWS Cost Explorer is a tool that enables you to visualize, understand, and manage your AWS costs and usage over time.
+
+* Visualisation !!!!
+
 ## 9.2 Migration strategies
 
 The application migration strategies are:
