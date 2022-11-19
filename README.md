@@ -178,7 +178,7 @@ Similar to Amazon S3 Standard but has a lower storage price and higher retrieval
 
 * Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
-Stores data in a single Availability Zone
+Stores data in a single Availability Zone (cold-data, 중요하긴 하지만 절대 열어보질 않은 데이터 콜드 데이터)
 
 Has a lower storage price than Amazon S3 Standard-IA
 
