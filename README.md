@@ -425,6 +425,41 @@ AWS Cost Explorer is a tool that enables you to visualize, understand, and manag
 
 * Visualisation !!!!
 
+## 8.7 AWS Support Plans
+
+# 8.7.1 Basic Support
+
+* 24/7 customer service
+* Doumentation
+* Whitepapers
+* Support forums
+* AWS Trusted Advisor
+* AWS Personal Health Dashboard - a tool that provides alerts and remediation guidance when AWS is experiencing events that may affect you
+
+# 8.7.2 Developer Support
+* Basic Support 
+* Email to customer support (12 h)
+
+# 8.7.3 Business Support
+
+* Basic and Developer support
+* AWS Trusted Advisor provides full set of bset practice checks
+* Direct phone access to cloud support engineers
+* Infrastructure event management
+
+# 8.7.4 Enterprise Support
+* Basic, Developer, and Business support
+* 15- minue SLA for business critical workloads
+* Tehnical Account Manager (TAM) - part of Concierge support team, monitoring environment, archtective and operational reviews. 
+
+- Five Pillars
+* Operational Excellence
+* Security
+* Reliability
+* Performance Efficiency
+* Cost Optimisation
+
+
 ## 9.2 Migration strategies
 
 The application migration strategies are:
