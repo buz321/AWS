@@ -1,4 +1,7 @@
 # AWS_Studying_Note (Amazon Practitioner) - Achieved 23/11/2022
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/107760647/203555681-6d13f3a5-2483-4b67-b247-ab0c3297ab8b.png)
+
+
 
 # 2.3 Scaling Amazon EC2
 
