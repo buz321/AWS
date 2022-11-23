@@ -1,4 +1,4 @@
-# AWS_Studying_Note (Amazon Practitioner) - 23/11/2022
+# AWS_Studying_Note (Amazon Practitioner) - Achieved 23/11/2022
 
 # 2.3 Scaling Amazon EC2
 
