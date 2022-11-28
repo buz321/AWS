@@ -507,6 +507,6 @@ The **AWS Snow Family** is a collection of physical devices that help to physica
 * You can transfer up to 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container, pulled by a semi trailer truck.
 
 Note!: AWS Snow Family is 'Secure and Tamper-resistant'
-
+       It's important to know which situation is appropriate to use each feature. 
 # Reference:
 https://explore.skillbuilder.aws
