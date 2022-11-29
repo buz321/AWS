@@ -24,6 +24,8 @@ An edge location is a site that Amazon CloudFront uses to store cached copies of
 
 * Edge location is separate from "Regions"
 
+* Do not confuse with Regions! 
+
 ### 3.2.1 Amazon CloundFront
 A service that helps deliver data, video, application, APIs to customers around the world with "Low Latency" and "High-Transfer-Speed"
 
