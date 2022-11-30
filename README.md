@@ -37,7 +37,7 @@ A service that helps deliver data, video, application, APIs to customers around 
 domain name service 
 helping direct cusomters to certain web location
 
-* Low Latency
+* Low Latency !
 
 * High-Transfer-Speed
 
