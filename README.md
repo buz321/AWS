@@ -218,7 +218,7 @@ Creates S3 buckets on Amazon S3 Outposts
 Makes it easier to retrieve, store, and access data on AWS Outposts
 
 
-### 5.2.1 Amazon EBS VS Amazon S3
+### 5.2.1 Amazon EBS VS Amazon S3 (important)
 
 Amazon EBS:
 
