@@ -399,7 +399,7 @@ AWS offers three free services:
 
 ## 8.2 AWS pricing concepts
 
-- Pay for what you use
+- Pay for what you use (save money)
 - pay less when you reserve
 - Pay less with volume-based discounts when you use more
 
