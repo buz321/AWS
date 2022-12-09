@@ -10,3 +10,16 @@ Aws Solution Architect
 
 ## Reference:
 https://explore.skillbuilder.aws
+
+
+## Amazon Cognito
+
+Amazon Cognito provides authentication, authorization, and user management for your web and mobile apps. Users can sign in directly with a user name and password, or through a trusted third party.
+
+## Warm Standby
+
+This solution meets the requirement for an RTO of 5 minutes. The instances run at a low capacity and can scale within minutes.
+
+## Sticky Session (Application Load Balancer)
+
+Sticky sessions use cookies to help the client maintain a connection to the same instance over a cookie's lifetime
