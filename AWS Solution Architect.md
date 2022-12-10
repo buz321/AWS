@@ -23,3 +23,5 @@ This solution meets the requirement for an RTO of 5 minutes. The instances run a
 ## Sticky Session (Application Load Balancer)
 
 Sticky sessions use cookies to help the client maintain a connection to the same instance over a cookie's lifetime
+
+## ECS vs EKS
