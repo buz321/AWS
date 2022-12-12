@@ -32,3 +32,5 @@ Cross-origin resource sharing (CORS) defines a way for client web applications t
 Which components are required to build a site-to-site VPN connection on AWS?
 * Customer Gateway
 * Virtual Private Gateway
+
+### Amazon ECS and Aurora Serverless, they do not cost money when they are inactivate
