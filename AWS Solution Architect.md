@@ -28,3 +28,7 @@ Sticky sessions use cookies to help the client maintain a connection to the same
 
 ## Cross-origin resource sharing (CORS)
 Cross-origin resource sharing (CORS) defines a way for client web applications that are loaded in one domain to interact with resources in a different domain.
+
+Which components are required to build a site-to-site VPN connection on AWS?
+* Customer Gateway
+* Virtual Private Gateway
