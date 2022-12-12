@@ -37,3 +37,8 @@ Which components are required to build a site-to-site VPN connection on AWS?
 
 ## multipart upload to S3
 You can use a multipart upload to upload larger files, such as the files in this scenario.
+
+
+## Which command should a solutions architect run on the EC2 instance to gather the system metadata?
+The only way to retrieve instance metadata is to use the link-local address, which is 169.254.169.254.
+- 169.254.169.254.
