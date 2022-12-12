@@ -34,3 +34,6 @@ Which components are required to build a site-to-site VPN connection on AWS?
 * Virtual Private Gateway
 
 ### Amazon ECS and Aurora Serverless, they do not cost money when they are inactivate
+
+## multipart upload to S3
+You can use a multipart upload to upload larger files, such as the files in this scenario.
