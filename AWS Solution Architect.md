@@ -27,4 +27,4 @@ Sticky sessions use cookies to help the client maintain a connection to the same
 ## ECS vs EKS
 
 ## Cross-origin resource sharing (CORS)
-Cross-origin resource sharing (CORS) defines a way for client web applications that are loaded in <U>one domain<U> to interact with resources in a different domain.
+Cross-origin resource sharing (CORS) defines a way for client web applications that are loaded in one domain to interact with resources in a different domain.
