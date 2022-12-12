@@ -42,3 +42,6 @@ You can use a multipart upload to upload larger files, such as the files in this
 ## Which command should a solutions architect run on the EC2 instance to gather the system metadata?
 The only way to retrieve instance metadata is to use the link-local address, which is 169.254.169.254.
 - 169.254.169.254.
+
+## throttling limits (api gateway)
+the burst limit represents the target maximum number of concurrent request submissions that API Gateway will fulfill before returning 429 Too Many Requests error responses.
