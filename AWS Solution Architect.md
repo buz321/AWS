@@ -25,3 +25,6 @@ This solution meets the requirement for an RTO of 5 minutes. The instances run a
 Sticky sessions use cookies to help the client maintain a connection to the same instance over a cookie's lifetime
 
 ## ECS vs EKS
+
+## Cross-origin resource sharing (CORS)
+Cross-origin resource sharing (CORS) defines a way for client web applications that are loaded in <U>one domain<U> to interact with resources in a different domain.
