@@ -45,3 +45,6 @@ The only way to retrieve instance metadata is to use the link-local address, whi
 
 ## throttling limits (api gateway)
 the burst limit represents the target maximum number of concurrent request submissions that API Gateway will fulfill before returning 429 Too Many Requests error responses.
+
+## AWS Cognito
+Amazon Cognito is designed for developers who want to add user management and sync functionality to their mobile and web apps. 
