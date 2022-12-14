@@ -48,3 +48,7 @@ the burst limit represents the target maximum number of concurrent request submi
 
 ## AWS Cognito
 Amazon Cognito is designed for developers who want to add user management and sync functionality to their mobile and web apps. 
+
+## Usage Plan
+
+A usage plan specifies who can access one or more deployed API stages and methods—and optionally sets the target request rate to start throttling requests. The plan uses API keys to identify API clients and who can access the associated API stages for each key.
