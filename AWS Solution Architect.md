@@ -52,3 +52,6 @@ Amazon Cognito is designed for developers who want to add user management and sy
 ## Usage Plan
 
 A usage plan specifies who can access one or more deployed API stages and methods—and optionally sets the target request rate to start throttling requests. The plan uses API keys to identify API clients and who can access the associated API stages for each key.
+
+## AWS Transfer Family
+AWS Transfer Family는 SFTP, FTPS, FTP 및 AS2 프로토콜을 사용하여 AWS 스토리지 서비스로의 반복적인 B2B 파일 전송을 안전하게 조정합니다.
