@@ -62,3 +62,6 @@ It is a stateful, managed network firewall and intrusion detection and preventio
 ## AWS Secrets Manager
 a secrets management service that helps you protect access to your applications, services, and IT resources. This service enables you to easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
 * rotation 가능!!
+
+## AWS Systems Manager
+AWS Systems Manager centralizes operational data from multiple AWS services and automates tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments.
