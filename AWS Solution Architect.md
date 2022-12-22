@@ -54,6 +54,8 @@ AWS Transfer Family는 SFTP, FTPS, FTP 및 AS2 프로토콜을 사용하여 AWS 
 
 ## AWS Network Firewall
 It is a stateful, managed network firewall and intrusion detection and prevention service for your virtual private cloud (VPC) that you created in Amazon Virtual Private Cloud (Amazon VPC). With Network Firewall, you can filter traffic at the perimeter of your VPC. This includes filtering traffic going to and coming from an internet gateway, NAT gateway, or over VPN or AWS Direct Connect.
+<img width="1140" alt="스크린샷 2022-12-23 오전 7 00 45" src="https://user-images.githubusercontent.com/107760647/209233348-b1c9b7bf-fd80-49d0-8d36-3a8c2f0e0b16.png">
+
 
 ## AWS Firewall Manager
 AWS Firewall Manager is a security management service that allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations.
