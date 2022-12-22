@@ -8,10 +8,6 @@ Aws Solution Architect
 * 동일한 리전에 있어야함
 * 네트워크를 벗어나지 않기때문에 비용이 절감됨
 
-## Reference:
-https://explore.skillbuilder.aws
-
-
 ## Amazon Cognito
 
 Amazon Cognito provides authentication, authorization, and user management for your web and mobile apps. Users can sign in directly with a user name and password, or through a trusted third party.
@@ -59,9 +55,17 @@ AWS Transfer Family는 SFTP, FTPS, FTP 및 AS2 프로토콜을 사용하여 AWS 
 ## AWS Network Firewall
 It is a stateful, managed network firewall and intrusion detection and prevention service for your virtual private cloud (VPC) that you created in Amazon Virtual Private Cloud (Amazon VPC). With Network Firewall, you can filter traffic at the perimeter of your VPC. This includes filtering traffic going to and coming from an internet gateway, NAT gateway, or over VPN or AWS Direct Connect.
 
+## AWS Firewall Manager
+AWS Firewall Manager is a security management service that allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations.
+<img width="999" alt="스크린샷 2022-12-23 오전 6 57 17" src="https://user-images.githubusercontent.com/107760647/209232951-22bc9cce-83ae-422a-a249-e2509b7b335b.png">
+
 ## AWS Secrets Manager
 a secrets management service that helps you protect access to your applications, services, and IT resources. This service enables you to easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
 * rotation 가능!!
 
 ## AWS Systems Manager
 AWS Systems Manager centralizes operational data from multiple AWS services and automates tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments.
+
+## Reference:
+https://explore.skillbuilder.aws
+https://aws.amazon.com/ko/
