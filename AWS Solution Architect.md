@@ -61,6 +61,8 @@ It is a stateful, managed network firewall and intrusion detection and preventio
 AWS Firewall Manager is a security management service that allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations.
 <img width="999" alt="스크린샷 2022-12-23 오전 6 57 17" src="https://user-images.githubusercontent.com/107760647/209232951-22bc9cce-83ae-422a-a249-e2509b7b335b.png">
 
+* AWS Network Firewall 랑 헷갈리지 말 것! 
+
 ## AWS Secrets Manager
 a secrets management service that helps you protect access to your applications, services, and IT resources. This service enables you to easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
 * rotation 가능!!
