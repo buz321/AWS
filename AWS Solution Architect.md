@@ -29,6 +29,8 @@ Which components are required to build a site-to-site VPN connection on AWS?
 * Customer Gateway
 * Virtual Private Gateway
 
+This can be used to solve microservice problems
+
 ### Amazon ECS and Aurora Serverless, they do not cost money when they are inactivate
 
 ## multipart upload to S3
