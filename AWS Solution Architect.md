@@ -73,5 +73,6 @@ a secrets management service that helps you protect access to your applications,
 AWS Systems Manager centralizes operational data from multiple AWS services and automates tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments.
 
 ## Reference:
+Amazon websites
 https://explore.skillbuilder.aws
 https://aws.amazon.com/ko/
