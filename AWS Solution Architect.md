@@ -1,7 +1,7 @@
 # AWS Solution Architect (plan to achieve in Jan 2023)
 
 Aws Solution Architect
-
+- make sure to read the questions properly
 ## VPC Endpoint
 * AWS를 네트워크 안에서 EC2 인스턴스를 VPC 외부서비스와 private 하게 사용하기위해 쓰는것이다.
 * 인터넷을 거치지 않음
