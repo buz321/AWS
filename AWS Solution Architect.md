@@ -12,6 +12,13 @@ Aws Solution Architect
 
 Amazon Cognito provides authentication, authorization, and user management for your web and mobile apps. Users can sign in directly with a user name and password, or through a trusted third party.
 
+* User pool
+
+A user pool is a user directory in Amazon Cognito. With a user pool, your users can sign in to your web or mobile app through Amazon Cognito. Your users can also sign in through social identity providers like Google, Facebook, Amazon, or Apple, and through SAML identity providers. Whether your users sign in directly or through a third party, all members of the user pool have a directory profile that you can access through a Software Development Kit (SDK).
+<img width="674" alt="스크린샷 2023-01-02 오전 1 18 39" src="https://user-images.githubusercontent.com/107760647/210177668-271192a8-afb9-49b6-a3f5-ea50af9a8c47.png">
+
+
+
 ## Warm Standby
 
 This solution meets the requirement for an RTO of 5 minutes. The instances run at a low capacity and can scale within minutes.
