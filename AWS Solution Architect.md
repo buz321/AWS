@@ -80,6 +80,25 @@ Amazon Pinpoint는 다수의 채널, 세그먼트 및 캠페인에 걸친 대규
 AWS Lake Formation을 사용하면 안전한 데이터 레이크를 간편하게 구축하여 광범위한 분석 작업에서 데이터를 사용할 수 있습니다.
 <img width="1108" alt="스크린샷 2023-01-01 오후 9 10 06" src="https://user-images.githubusercontent.com/107760647/210170129-6f0317bc-eaf1-477f-8e50-29d6dc3e7066.png">
 
+## Amazon EventBridge
+Amazon EventBridge는 이벤트 수신, 필터링, 변환, 라우팅 및 전송 기능을 제공하는 서버리스 이벤트 버스입니다.
+* 개발자 민첩성 개선
+
+AWS, SaaS 앱 또는 자체 사용자 지정 앱을 사용하는 마이크로서비스가 분리되어 있는 여러 서비스 팀 간에 조정이 필요하지 않습니다.
+
+* 애플리케이션 모니터링 및 감사
+
+AWS 환경을 모니터링 및 감사하고 애플리케이션의 운영 변경에 실시간으로 대응하여 인프라 취약성을 방지합니다.
+
+* SaaS 통합을 통한 기능 확장
+
+자체 애플리케이션을 다른 SaaS 애플리케이션에 연결합니다. 사용자 지정 이벤트를 EventBridge로 전송한 다음 API 대상을 통해 Zendesk CRM으로 전송할 수 있습니다.
+
+* AI/기계 학습으로 SaaS 사용자 지정
+
+SaaS 애플리케이션의 데이터를 EventBridge에 로드하고 인공 지능 및 기계 학습(AI/ML)을 사용하여 신규 소매 제품의 이미지를 태깅합니다.
+
+<img width="1143" alt="스크린샷 2023-01-02 오전 12 25 16" src="https://user-images.githubusercontent.com/107760647/210176060-75ab92e3-2dfc-448d-ac74-ea722a67ebc2.png">
 
 
 ## Reference:
