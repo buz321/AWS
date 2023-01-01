@@ -72,6 +72,16 @@ a secrets management service that helps you protect access to your applications,
 ## AWS Systems Manager
 AWS Systems Manager centralizes operational data from multiple AWS services and automates tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments.
 
+## AWS Pinpoint
+Amazon Pinpoint는 다수의 채널, 세그먼트 및 캠페인에 걸친 대규모 고객 커뮤니케이션을 지원하는 사용자 지정 가능한 마케터 및 개발자용 도구를 제공합니다.
+<img width="1127" alt="스크린샷 2023-01-01 오후 9 09 21" src="https://user-images.githubusercontent.com/107760647/210170109-db9b0846-6dbb-4f3c-beb7-0e70b06804ac.png">
+
+## AWS Lake Formation
+AWS Lake Formation을 사용하면 안전한 데이터 레이크를 간편하게 구축하여 광범위한 분석 작업에서 데이터를 사용할 수 있습니다.
+<img width="1108" alt="스크린샷 2023-01-01 오후 9 10 06" src="https://user-images.githubusercontent.com/107760647/210170129-6f0317bc-eaf1-477f-8e50-29d6dc3e7066.png">
+
+
+
 ## Reference:
 Amazon websites
 https://explore.skillbuilder.aws
