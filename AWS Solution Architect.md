@@ -1,4 +1,4 @@
-# AWS Solution Architect (plan to achieve in Jan 2023)
+# AWS Solution Architect (achieve in Jan 2023)
 
 Aws Solution Architect
 - make sure to read the questions properly
